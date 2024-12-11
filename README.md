@@ -54,8 +54,13 @@ The AI Detector project aims to provide a robust system for identifying whether 
 You are all set to run the AI detector
 ## Usage
 To run the AI detector run the command given below:
-```bash
+### Windows
+```console
 python .\ai_detector.py
+```
+### Linux/Mac
+```bash
+python ./ai_detector.py
 ```
 The AI detector will start training on the training data given in the `data` directory as `TRAIN.csv`.
 **Do not make any changes to the naming of the data directory, make sure to keep up with the data standards and the format in case you wish to add more training data.** 
