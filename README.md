@@ -17,11 +17,16 @@ The AI Detector project aims to provide a robust system for identifying whether 
 
 ## Setup
 1. Make sure your system has Python version 3.8 or later installed.
-2. Create a Python virtual environment to install the required dependencies. Use the command below.
+2. Clone this directory using the code below.
+     ```bash
+     git clone https://github.com/helloswayamshah/AI-Detector.git
+     ```
+     **Note: Make sure git is installed on your computer**
+3. Create a Python virtual environment to install the required dependencies. Use the command below.
      ```bash
      python -m venv <virtual_environment_name>
      ```
-3. Once the virtual environment is created, follow the activation of the virtual environment for your [Windows](#Windows) or [Linux/Mac](#Linux/Mac) Machine.
+4. Once the virtual environment is created, follow the activation of the virtual environment for your [Windows](#Windows) or [Linux/Mac](#Linux/Mac) Machine.
      ### Windows
      ```console
      ./<virtual_environment_name>/Scripts/activate
@@ -30,6 +35,11 @@ The AI Detector project aims to provide a robust system for identifying whether 
      ```bash
      source ./<virtual_environment_name>/bin/activate
      ```
+5. Once the virtual environment is activated your terminal will look like shown below.
+     ```
+     (<virtual_environment_name>) <path_to_curr_directory>
+     ```
+   Now you are all set to install the AI Detector
 
 ## Installation
 
