@@ -8,6 +8,11 @@ The AI Detector project aims to provide a robust system for identifying whether 
 4. [Contributors](#Contributors)
 
 ## Features
+- High Accuracy: Improved detection rates compared to existing tools like GPT Zero.
+- Fairness: Reduces the chances of misclassifying human-authored content as AI-generated.
+- Customizable Thresholds: Adjustable sensitivity for different use cases.
+- Real-time Analysis: Process text input and return results quickly.
+- Transparency: Open-source codebase and clear explanation of model decisions.
 
 ## Installation
 
