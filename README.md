@@ -67,3 +67,4 @@ The AI detector will start training on the training data given in the `data` dir
 
 The AI detector will train on the data using different models, and provide you with the prompt for input, Write the data you wish to classify and the detector will provide you with the result.
 ## Contributors
+**Swayam Shah, Atharva Tawde, Jiancheng Xiong, Karthik Chaparala**
