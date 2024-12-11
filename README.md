@@ -43,8 +43,13 @@ The AI Detector project aims to provide a robust system for identifying whether 
 
 ## Installation
 1. To run the AI Detector, make sure to install all the dependencies for the AI detector by running the command below:
-     ```bash
+     ### Windows
+     ```console
      pip install -r .\requirements.txt
+     ```
+     ### Linux/Mac
+     ```bash
+     pip install -r ./requirements.txt
      ```
 2. All the required dependencies will be installed by running the command given above, **Make sure your computer is connected to reliable internet to download all the dependencies**.
 3. Make sure the spacy language model is downloaded using the command given below:
