@@ -42,7 +42,23 @@ The AI Detector project aims to provide a robust system for identifying whether 
    Now you are all set to install the AI Detector
 
 ## Installation
-
+1. To run the AI Detector, make sure to install all the dependencies for the AI detector by running the command below:
+     ```bash
+     pip install -r .\requirements.txt
+     ```
+2. All the required dependencies will be installed by running the command given above, **Make sure your computer is connected to reliable internet to download all the dependencies**.
+3. Make sure the spacy language model is downloaded using the command given below:
+     ```bash
+     python -m spacy download en_core_web_sm
+     ```
+You are all set to run the AI detector
 ## Usage
+To run the AI detector run the command given below:
+```bash
+python .\ai_detector.py
+```
+The AI detector will start training on the training data given in the `data` directory as `TRAIN.csv`.
+**Do not make any changes to the naming of the data directory, make sure to keep up with the data standards and the format in case you wish to add more training data.** 
 
+The AI detector will train on the data using different models, and provide you with the prompt for input, Write the data you wish to classify and the detector will provide you with the result.
 ## Contributors
