@@ -125,14 +125,9 @@ The script will automatically train the Logistic Regression, Random Forest, and 
 ## Contributors
 
 * **Swayam Shah**
-* personal-email: [helloswayamshah@gmail.com](mailto:helloswayamshah@gmail.com)
-* school-email: [sshah36@ucsc.edu](mailto:sshah36@ucsc.edu)
-
-
+   * personal-email: [helloswayamshah@gmail.com](mailto:helloswayamshah@gmail.com)
+   * school-email: [sshah36@ucsc.edu](mailto:sshah36@ucsc.edu)
 * **Atharva Tawde**
 * **Jiancheng Xiong**
 * **Karthik Chaparala**
 
-```
-
-```
